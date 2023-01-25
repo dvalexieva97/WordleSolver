@@ -23,3 +23,5 @@ Usage example given in main.py
 ## Todos
 - Make faster
 - Add corpus choice functionaility
+- Improve popular words fetch functionality
+- Increase accuracy
